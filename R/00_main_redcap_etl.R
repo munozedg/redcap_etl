@@ -46,6 +46,8 @@ tidyREDCap::import_instruments(
 )
 
 
+# Note: If you are doing your analyses in R (not SAS), you can stop here
+
 
 # Example 1 - SAS 
 SAS_demog_t1 <- demographic_ses_and_medical_factors_domain
